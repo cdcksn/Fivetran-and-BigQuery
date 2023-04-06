@@ -1,5 +1,5 @@
-# fivetran
-Demonstrations of Fivetran for ETL work
+# Fivetran
+Using Fivetran to connect Google Sheets data to Google BigQuery and then to Looker for Visualization 
 
 Step 1:
 Set up a new Fivetran connection. Choose your source data. For this demo, we are using Google Sheets. 
