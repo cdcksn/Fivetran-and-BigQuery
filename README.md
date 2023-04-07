@@ -48,4 +48,7 @@ To view this data, we need to open Looker. Sign in as needed, and open a new das
 
 Step 13:
 Start visualizing! From here on out you should be able to create any dashboards and reports you want, and Fivetran will keep the pipeline flowing at your specified interval. 
-![image](https://user-images.githubusercontent.com/68393151/230493117-f299db48-b371-4e98-a628-7222856d19ca.png)
+![image](https://user-images.githubusercontent.com/68393151/230624012-6a1a903b-f4f0-450d-b18c-d04d11dac374.png)
+
+![image](https://user-images.githubusercontent.com/68393151/230624090-5083c905-67f8-4598-9111-c91af7686f72.png)
+
